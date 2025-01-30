@@ -1,0 +1,23 @@
+﻿  keybst.cpp
+D:\새 폴더\keybst\keybst\keybst.cpp(1380,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1382,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1384,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1386,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1389,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1391,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1393,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1395,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1401,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1403,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1405,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1407,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1410,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1412,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1414,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1416,33): warning C4244: '인수': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1438,23): warning C4244: '초기화 중': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1449,29): warning C4244: '초기화 중': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1450,27): warning C4244: '초기화 중': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1451,28): warning C4244: '초기화 중': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\새 폴더\keybst\keybst\keybst.cpp(1452,28): warning C4244: '초기화 중': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  keybst.vcxproj -> D:\새 폴더\keybst\x64\Debug\keybst.exe
